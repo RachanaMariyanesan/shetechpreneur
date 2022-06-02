@@ -1,0 +1,43 @@
+h1{
+    color: red;
+}
+body{
+    background-color: #a3c2c2;
+}
+a{
+    color: hotpink;
+}
+.dotted{
+    border-style: dotted;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p1{  
+    border: 2px solid black;
+    margin: 100px 10px 20px 10px;
+    border-radius: 50px;
+    border-width: 2px ;
+    font-style: italic;
+    padding: 10px 50px 10px 50px;
+    background-color: tomato;
+}
+.p2{
+    font-weight: 400;
+    background-color: purple;
+    padding: 50px 20px 50px 1000px;
+    border: 2px solid black;
+}
+.image{
+    background-color: aqua;
+    padding: 30px 80px 30px 70px;
+     border: 2px solid black;
+     opacity:70%;
+}
+table,td{
+    border:1px solid;
+}
+table img{
+    width:200px;
+    height:200px;
+}
